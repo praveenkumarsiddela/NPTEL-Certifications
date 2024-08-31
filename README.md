@@ -7,7 +7,7 @@ This repository contains certifications from NPTEL for various courses.
 ### 1. Database Management Systems
 - **Issued**: September 2018
 - **Credential ID**: NPTEL18CS36S11340505
-- ![Database Management Systems]([path/to/certificate-image-1.jpg](https://github.com/praveenkumarsiddela/NPTEL-Certifications/blob/main/Database%20Management%20Systems.jpg))
+- ![Database Management Systems](https://github.com/praveenkumarsiddela/NPTEL-Certifications/blob/main/Database%20Management%20Systems.jpg)
 
 ### 2. Introduction to Internet of Things
 - **Issued**: April 2018
